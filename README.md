@@ -2,11 +2,10 @@
 website layout with html and CSS 
 see for yourself https://gracious-lovelace-ef230e.netlify.app
 
-
-![_01-Index](https://user-images.githubusercontent.com/82911909/146627434-7745a19e-d8be-458a-8c2a-fc5e977462f2.png)
-![_02-Nosotros](https://user-images.githubusercontent.com/82911909/146627435-a8a07683-4576-4b41-83d2-765313acbca4.png)
-![_03-Anuncios](https://user-images.githubusercontent.com/82911909/146627436-3ccb29bc-ca93-43aa-b9dd-d0d61f384951.png)
-![_04-Anuncio](https://user-images.githubusercontent.com/82911909/146627437-e8375df4-7d19-4c44-8d8a-2350e8f6681c.png)
-![_05-Blog](https://user-images.githubusercontent.com/82911909/146627438-1e884275-90f1-41ed-bdd0-107d87284350.png)
-![_06-Entrada](https://user-images.githubusercontent.com/82911909/146627439-b6df0e16-ae87-4a10-981b-cd393d77841d.png)
-![_07-Contacto](https://user-images.githubusercontent.com/82911909/146627440-a2d10346-5f10-4be5-84c0-82323750e8f2.png)
+![01-Index](https://user-images.githubusercontent.com/82911909/146627463-7fee7fd0-d735-441e-b30b-5ffd353ef9c3.png)
+![02-Nosotros](https://user-images.githubusercontent.com/82911909/146627469-465ac9d9-01d5-4533-89f0-9b73d3030c92.png)
+![03-Anuncios](https://user-images.githubusercontent.com/82911909/146627472-266f10e2-03b0-4ef9-b349-d35107e3f8c4.png)
+![04-Anuncio](https://user-images.githubusercontent.com/82911909/146627473-241b38ed-752d-4589-bf23-1489bdb85cf7.png)
+![05-Blog](https://user-images.githubusercontent.com/82911909/146627474-44ed8e13-cf43-484e-9b51-6ff82b72088f.png)
+![06-Entrada](https://user-images.githubusercontent.com/82911909/146627476-7593a280-ae36-4269-ab3b-d726d87605e8.png)
+![07-Contacto](https://user-images.githubusercontent.com/82911909/146627477-f4daa83f-3263-46c3-be2d-c7dae2af84f5.png)
